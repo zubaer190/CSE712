@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 .. to be filled ...
 
 Link to the Concept Map:
-https://drive.google.com/file/d/1yO3FPfPHMZgYuZCdLw4rxt6XJm2zze-U/view?usp=sharing
+
 https://drive.google.com/file/d/1OHpHYPf28Lv_XOnokcyaxtVspfXuwwcN/view?usp=sharing
 
 https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=CSE712_submission_3.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1OHpHYPf28Lv_XOnokcyaxtVspfXuwwcN%26export%3Ddownload
