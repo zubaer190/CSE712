@@ -8,7 +8,7 @@ Paper title:
 Content Categorization Using Logistic Regression from Bangla Social Media Blog Post
 
 Paper presentation:
-
+https://github.com/zubaer190/CSE712/blob/main/submission4/Group-28-Paper-Writing.docx
 
 Paper submission date (to workshop/conference):
 
