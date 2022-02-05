@@ -1,7 +1,8 @@
 Unlisted youtube video: 
+https://youtu.be/uFGSFUXaEBg
 
-
-Conference / Paper submission login URL:
+Conference / Paper submission login URL: 
+https://www.softconf.com/lrec2022/Games/user/scmd.cgi?scmd=submitPaperCustom_submit
 
 
 Paper title:
@@ -9,16 +10,16 @@ Content Categorization Using Logistic Regression from Bangla Social Media Blog P
 
 Paper presentation:
 https://github.com/zubaer190/CSE712/blob/main/submission4/Group-28-Paper-Writing.docx
-https://drive.google.com/file/d/1HdKAO-kqJ-Fufm4Yx0Kh8_wfGVHBkZ-t/view?ts=61e86288
-
-Paper submission date (to workshop/conference):
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission date (to workshop/conference): 05/02/2022
+
+
+Paper submission ID: (received) from conference/workshop: Confirmation Number:	1
 
 
 Conference URL:
-http://confsite/...
+https://gamesandnlp.com/
 
 
 Group Number:
